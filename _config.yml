@@ -12,8 +12,11 @@ color:
     - '#333333'
 layout_spectrum: 0.03012239490635693
 name: CMNG Capital
-title: Infrastructure Investment Fund
 navigation:
   - name: Amko SOLARA
     url: 'https://www.facebook.com/amkosolara/'
     type: external
+  - name: Amko SOLARA
+    url: 'http://www.amkosolara.com'
+    type: external
+title: Infrastructure Investment Fund
