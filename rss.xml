@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[CMNG Capital]]></title>
-        <description><![CDATA[CMNG Capital]]></description>
+        <title><![CDATA[Infrastructure Investment Fund]]></title>
+        <description><![CDATA[Infrastructure Investment Fund]]></description>
         <link>https://thegrid.ai/cmng-capital/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Aug 2016 04:02:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2016 04:44:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cmng-capital/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Audi's new technology is the beginning of the end of traffic lights]]></title>
+            <description><![CDATA[<article><h1>Audi's new technology is the beginning of the end of traffic lights</h1><p>Audi has announced it is rolling out a feature in some of its new vehicles that allows them to communicate with traffic lights. It's a neat trick that customers might like: they can watch as a timer counts down until a red light turns green, or the system can warn drivers approaching a green light that it's going to change, and advise them to start braking.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/00b06b11a199f47fca59d0d0b365afe5/noop.png?input=http%3A%2F%2Fd267cvn3rvuq91.cloudfront.net%2Fi%2Fimages%2Ftraffic.lightsx1000.png%3Fcx%3D19%26cy%3D0%26cw%3D960%26ch%3D540%26sw%3D1200"></article>]]></description>
+            <link>https://www.technologyreview.com/s/602198/audis-new-technology-is-the-beginning-of-the-end-of-traffic-lights/?utm_campaign=socialflow&amp;utm_source=facebook&amp;utm_medium=post</link>
+            <guid isPermaLink="false">015eab4e-7744-4c8d-a2f0-cd04ad1434d7</guid>
+            <pubDate>Fri, 19 Aug 2016 04:44:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Inside the Stunning Mansion in Ex Machina]]></title>
             <description><![CDATA[<article><h1>Inside the Stunning Mansion in Ex Machina</h1><p>There are many stunning, otherworldly sights in Ex Machina, the science-fiction film directed by Alex Garland that features a robot so lifelike she's played by actress Alicia Vikander. But the most breathtaking sight of all may be the 100 percent real, available-for-a-night's-stay location where the film is set: the Juvet Landscape Hotel in Norway.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/681669ff82d513a623869d49c9b8fe8ee3c88229.jpg"></article>]]></description>
@@ -57,7 +64,7 @@
         </item>
         <item>
             <title><![CDATA[BMW E30 TM Concept30 Car Concept by TMcars]]></title>
-            <description><![CDATA[<article><h1>BMW E30 TM Concept30 Car Concept by TMcars</h1><p>BMW E30 TM Concept30 Car Concept by TMcars Designer descriptions: TMcars concept30 plays on the popularity and availability of the E30. The idea behind the...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/439b15f7e9e9042582b86d854c1820910b8047f8.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>BMW E30 TM Concept30 Car Concept by TMcars</h1><p>BMW E30 TM Concept30 Car Concept by TMcars Designer descriptions: TMcars concept30 plays on the popularity and availability of the E30. The idea behind the...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c7e13504dc5f4513817e554019a091ac/croprotate.jpg?cropheight=847&cropwidth=1280&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F439b15f7e9e9042582b86d854c1820910b8047f8.jpg&x=0&y=0"></article>]]></description>
             <link>http://techcracks.com/2012/10/bmw-e30-tm-concept30-car-concept-by-tmcars/</link>
             <guid isPermaLink="false">d6bed84e-503d-4933-b485-382dba605300</guid>
             <pubDate>Fri, 19 Aug 2016 04:02:27 GMT</pubDate>
