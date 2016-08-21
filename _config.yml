@@ -26,5 +26,8 @@ navigation:
   - name: DataGrid International
     url: 'http://www.datagridinternational.com'
     type: external
+  - name: Mapping of bike sharing data will change the way you see these cities
+    id: bf06a3e4-d6da-4999-9c9a-0d3c9325a432
+    type: content
 title: Infrastructure Investment Fund
 description: Investing a Smart City future
