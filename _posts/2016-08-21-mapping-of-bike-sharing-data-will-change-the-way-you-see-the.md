@@ -23,18 +23,15 @@ description: >-
   City, London and Berlin and animated it to illustrate traffic patterns
 inLanguage: en
 app_links: []
-isBasedOnUrl: >-
-  https://www.weforum.org/agenda/2016/08/what-bike-share-data-can-tell-us-about-our-cities?utm_content=buffer66769&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
 title: Mapping of bike sharing data will change the way you see these cities
-datePublished: '2016-08-21T13:13:30.957Z'
-dateModified: '2016-08-21T13:13:26.160Z'
+datePublished: '2016-08-21T13:32:15.871Z'
+dateModified: '2016-08-21T13:32:14.823Z'
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-21-mapping-of-bike-sharing-data-will-change-the-way-you-see-the.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: mapping-of-bike-sharing-data-will-change-the-way-you-see-the/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
