@@ -29,5 +29,8 @@ navigation:
   - name: Mapping of bike sharing data will change the way you see these cities
     id: bf06a3e4-d6da-4999-9c9a-0d3c9325a432
     type: content
+  - name: Audi's new technology is the beginning of the end of traffic lights
+    id: 015eab4e-7744-4c8d-a2f0-cd04ad1434d7
+    type: content
 title: Infrastructure Investment Fund
 description: Investing a Smart City future
