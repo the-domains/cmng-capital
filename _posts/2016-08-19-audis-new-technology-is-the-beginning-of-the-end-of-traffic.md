@@ -25,18 +25,15 @@ description: >-
   it's going to change, and advise them to start braking.
 inLanguage: en
 app_links: []
-isBasedOnUrl: >-
-  https://www.technologyreview.com/s/602198/audis-new-technology-is-the-beginning-of-the-end-of-traffic-lights/?utm_campaign=socialflow&utm_source=facebook&utm_medium=post
 title: Audi's new technology is the beginning of the end of traffic lights
-datePublished: '2016-08-19T04:44:10.076Z'
-dateModified: '2016-08-19T04:36:35.381Z'
+datePublished: '2016-08-21T13:32:36.695Z'
+dateModified: '2016-08-21T13:32:35.801Z'
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-19-audis-new-technology-is-the-beginning-of-the-end-of-traffic.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: audis-new-technology-is-the-beginning-of-the-end-of-traffic/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
