@@ -29,8 +29,5 @@ navigation:
   - name: Our Partners - Amko SOLARA
     url: 'http://www.amkosolara.com'
     type: external
-  - name: Amko SOLARA
-    url: 'https://www.facebook.com/amkosolara/'
-    type: external
 title: Infrastructure Investment Fund
 description: Investing a Smart City future
