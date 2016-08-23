@@ -10,15 +10,15 @@ description: >-
   viewed by individuals who receive access directly from CMNG Capital.
   Dissemination, distribution or copying of this information is strictly
   prohibited.
-dateModified: '2016-08-23T08:43:06.135Z'
-datePublished: '2016-08-23T08:43:12.238Z'
+dateModified: '2016-08-23T21:49:30.062Z'
+datePublished: '2016-08-23T21:49:31.009Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-23-for-accredited-investors-and-qualified-purchasers-only-not.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
