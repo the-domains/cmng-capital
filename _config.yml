@@ -23,14 +23,14 @@ navigation:
   - name: Future Cities 2016
     url: 'https://youtu.be/s0nK279GIjs'
     type: external
-  - name: Amko SOLARA
-    url: 'https://www.facebook.com/amkosolara/'
-    type: external
   - name: DataGrid International
     url: 'http://www.datagridinternational.com'
     type: external
   - name: Amko SOLARA
     url: 'http://www.amkosolara.com'
+    type: external
+  - name: Amko SOLARA
+    url: 'https://www.facebook.com/amkosolara/'
     type: external
 title: Infrastructure Investment Fund
 description: Investing a Smart City future
