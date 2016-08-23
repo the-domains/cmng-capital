@@ -20,6 +20,9 @@ navigation:
   - name: About CMNG Capital
     id: 12322eb3-98c4-4ff9-a507-bd27606818c6
     type: content
+  - name: Amko SOLARA
+    url: 'http://www.amkosolara.com'
+    type: external
   - name: Future Cities
     url: 'https://youtu.be/IhHWijahHak'
     type: external
@@ -31,9 +34,6 @@ navigation:
     type: content
   - name: Amko SOLARA
     url: 'https://www.facebook.com/amkosolara/'
-    type: external
-  - name: Amko SOLARA
-    url: 'http://www.amkosolara.com'
     type: external
   - name: DataGrid International
     url: 'http://www.datagridinternational.com'
