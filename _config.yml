@@ -26,6 +26,9 @@ navigation:
   - name: Amko SOLARA
     url: 'https://www.facebook.com/amkosolara/'
     type: external
+  - name: DataGrid International
+    url: 'http://www.datagridinternational.com'
+    type: external
   - name: Future Cities
     url: 'https://youtu.be/IhHWijahHak'
     type: external
@@ -35,8 +38,5 @@ navigation:
   - name: Audi's new technology is the beginning of the end of traffic lights
     id: 015eab4e-7744-4c8d-a2f0-cd04ad1434d7
     type: content
-  - name: DataGrid International
-    url: 'http://www.datagridinternational.com'
-    type: external
 title: Infrastructure Investment Fund
 description: Investing a Smart City future
