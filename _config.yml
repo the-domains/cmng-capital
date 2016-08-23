@@ -20,9 +20,6 @@ navigation:
   - name: About CMNG Capital
     id: 12322eb3-98c4-4ff9-a507-bd27606818c6
     type: content
-  - name: Future Cities
-    url: 'https://youtu.be/IhHWijahHak'
-    type: external
   - name: Amko SOLARA
     url: 'http://www.amkosolara.com'
     type: external
