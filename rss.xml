@@ -4,8 +4,15 @@
         <description><![CDATA[Infrastructure Investment Fund]]></description>
         <link>http://cmngcapital.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 06:57:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 13:58:20 GMT</lastBuildDate>
         <atom:link href="http://cmngcapital.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why a battery startup is targeting drones]]></title>
+            <description><![CDATA[<article><h1>Why a battery startup is targeting drones</h1><p>Scientists have known for decades that lithium-metal batteries offer a powerful combination of energy density and compactness. Unfortunately these batteries also present challenges: they are difficult to recharge and they have an unfortunate tendency to burst into flame.</p><img src="https://d267cvn3rvuq91.cloudfront.net/i/images/solidenergyv2x1600.png?cx=0&cy=181&cw=1600&ch=900&sw=1200"></article>]]></description>
+            <link>https://www.technologyreview.com/s/602197/better-lithium-batteries-to-get-a-test-flight/?utm_campaign=socialflow&amp;utm_source=facebook&amp;utm_medium=post</link>
+            <guid isPermaLink="false">5cb40919-597f-4edd-a408-95451a40c6f0</guid>
+            <pubDate>Thu, 25 Aug 2016 13:57:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What is Deep Learning? - OpenMind]]></title>
             <description><![CDATA[<article><h1>What is Deep Learning? - OpenMind</h1><p>Deep learning is an emerging topic in artificial intelligence (AI). A subcategory of machine learning, deep learning deals with the use of neural networks to improve things like speech recognition, computer vision, and natural language processing. It's quickly becoming one of the most sought-after fields in computer science.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/19817d9f53732a074f686b6f4dc75077/noop.jpg?input=https%3A%2F%2Fwww.bbvaopenmind.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fbbva-openmind-ahmed-banafa-deep-learning.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.facebook.com/NowThisNews/videos/1136276436462479/</link>
             <guid isPermaLink="false">f1df9e05-eaaa-4703-977b-a0f6c6dcbfbf</guid>
             <pubDate>Sun, 21 Aug 2016 04:49:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google Fiber is on hold as the future of blazing Internet turns toward wireless tech]]></title>
-            <description><![CDATA[<article><h1>Google Fiber is on hold as the future of blazing Internet turns toward wireless tech</h1><p>Laying fiber is, it turns out, pretty expensive. That's one reason why expansion of Google Fiber's ambitious project to bring ultrafast internet to U.S. cities around has been placed on hold. The company has spent spent hundreds of millions of dollars laying fiber-optic cablesto bring Internet service as much as 100 times faster than average high-speed wireless to customers in six cities so far.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dcce7b95454b4897c414d753635d959b/noop.png?input=https%3A%2F%2Fd267cvn3rvuq91.cloudfront.net%2Fi%2Fimages%2Fgooglefiber.png%3Fcx%3D0%26cy%3D3%26cw%3D1000%26ch%3D562%26sw%3D1200"></article>]]></description>
-            <link>https://www.technologyreview.com/s/602184/google-fiber-stalls-as-the-industry-gears-up-for-ultrafast-wireless/?utm_campaign=socialflow&amp;utm_source=facebook&amp;utm_medium=post</link>
-            <guid isPermaLink="false">13b408ca-0052-4442-b87b-a14708480de4</guid>
-            <pubDate>Sun, 21 Aug 2016 04:49:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
