@@ -1,4 +1,3 @@
-layout_spectrum: 0.9189784035552293
 typography_spectrum: 0.17455210676416755
 color:
   brandStrength: 0.3043730373028666
@@ -11,6 +10,7 @@ color:
     - '#EFECCA'
     - '#046380'
     - '#002F2F'
+layout_spectrum: 0.9189784035552293
 author:
   name: Michael Ng
   email: michael.ng@cmngcapital.com
@@ -20,9 +20,6 @@ navigation:
   - name: About CMNG Capital
     id: 12322eb3-98c4-4ff9-a507-bd27606818c6
     type: content
-  - name: Future Cities 2016
-    url: 'https://youtu.be/s0nK279GIjs'
-    type: external
   - name: Our Partners - DataGrid International
     url: 'http://www.datagridinternational.com'
     type: external
