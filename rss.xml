@@ -4,8 +4,15 @@
         <description><![CDATA[Infrastructure Investment Fund]]></description>
         <link>http://cmngcapital.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Aug 2016 06:07:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2016 06:08:22 GMT</lastBuildDate>
         <atom:link href="http://cmngcapital.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Future Cities 2016]]></title>
+            <description><![CDATA[<article><h1>Future Cities 2016</h1><p>This video is about Future Cities</p></article>]]></description>
+            <link>https://youtu.be/GC4ri7qnJk8</link>
+            <guid isPermaLink="false">da8e9b8c-138d-4d40-81c1-37144a3eeb8d</guid>
+            <pubDate>Sun, 28 Aug 2016 06:07:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Meet Alex Hegyi, the Innovator Under 35 whose USB camera someday will let you catch counterfeits]]></title>
             <description><![CDATA[<article><h1>Meet Alex Hegyi, the Innovator Under 35 whose USB camera someday will let you catch counterfeits</h1><p>PARC A new type of camera could let smartphones find counterfeit drugs or spot the ripest peach. No matter how good your smartphone camera is, it can show you only a fraction of the detail Alex Hegyi can with the one he's built at Xerox's PARC in Palo Alto, California.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/27fe461db1446b26d54629a56fda1f7a/noop.jpg?input=https%3A%2F%2Fd267cvn3rvuq91.cloudfront.net%2Fi%2Fimages%2Falex1x2200_0.jpg%3Fcx%3D0%26cy%3D605%26cw%3D2200%26ch%3D1237%26sw%3D1200"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://youtu.be/s0nK279GIjs</link>
             <guid isPermaLink="false">b2033c84-efdc-47b7-ab47-c9addf7749ec</guid>
             <pubDate>Tue, 23 Aug 2016 04:22:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The importance of coding the curb - Sidewalk Talk]]></title>
-            <description><![CDATA[<article><h1>The importance of coding the curb - Sidewalk Talk</h1><p>Who says infrastructure management isn't sexy? A digital street asset inventory can improve parking, planning, transparency, and more. Live in a city long enough and you're bound to get frustrated with some aspect of street maintenance. Why doesn't anyone take down the "30-minute parking" sign in front of the dry cleaner that closed up years ago?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0e74bf71c3a744f37b3a3d19992188a7/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F800%2F1*VtUX0X-LQunfMhevYnzSuA.jpeg"></article>]]></description>
-            <link>http://cmngcapital.com/the-importance-of-coding-the-curb-sidewalk-talk/index.html</link>
-            <guid isPermaLink="false">27589332-b6ca-4e70-945d-565e206c0b50</guid>
-            <pubDate>Tue, 23 Aug 2016 03:48:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
