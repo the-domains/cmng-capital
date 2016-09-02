@@ -4,8 +4,15 @@
         <description><![CDATA[Infrastructure Investment Fund]]></description>
         <link>http://cmngcapital.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 17:01:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 17:01:48 GMT</lastBuildDate>
         <atom:link href="http://cmngcapital.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[日本首家IoT青年旅館開幕，用手機掌控自己的住宿體驗]]></title>
+            <description><![CDATA[<article><h1>日本首家IoT青年旅館開幕，用手機掌控自己的住宿體驗</h1><p>這間青年旅館與新創業者合作，其中4間房間採用了10款市場上智慧裝置，旅客從辦理入住開始，可以手機App控制房間的智慧門鎖、房內的燈光照明、睡眠管理裝置，以及智慧家具整合遙控器、資訊壁窗等，一晚住宿收費9500日元起。</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/9aa99ce09b8facf5a1de1cfad3b79c00/noop.jpg?input=http%3A%2F%2Fstatic4.ithome.com.tw%2Fsites%2Fdefault%2Ffiles%2Ffield%2Fimage%2Fiot_double-1.jpg"></article>]]></description>
+            <link>http://www.ithome.com.tw/news/107859</link>
+            <guid isPermaLink="false">76c65f11-c517-47e2-ace2-14478f9157a4</guid>
+            <pubDate>Tue, 30 Aug 2016 17:01:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[August: IEA data shows global energy production and consumption continue to rise]]></title>
             <description><![CDATA[<article><h1>August: IEA data shows global energy production and consumption continue to rise</h1><p>Looking solely at OECD countries, where provisional data are available for 2015, energy production hit 4 164 Mtoe in 2015, a 0.5% increase on 2014 figures, and the highest level since the IEA was founded in 1974. Exports were also the highest ever recorded at 1 790 Mtoe (+5.5% from 2014).</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/127087a07e6219c327d2e5c8e43a8914/croprotate.png?cropheight=352&cropwidth=700&degrees=0&input=http%3A%2F%2Fwww.iea.org%2Fmedia%2Fnews%2F2016%2Fnews%2FFigure2alternate.png&x=0&y=23"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://medium.freecodecamp.com/with-open-data-you-finally-get-what-your-taxes-already-paid-for-6f1990d98e9#.tagpiyz75</link>
             <guid isPermaLink="false">5a1aa311-d828-4f26-9f5c-e4a1e53217f0</guid>
             <pubDate>Fri, 26 Aug 2016 17:55:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why a battery startup is targeting drones]]></title>
-            <description><![CDATA[<article><h1>Why a battery startup is targeting drones</h1><p>Scientists have known for decades that lithium-metal batteries offer a powerful combination of energy density and compactness. Unfortunately these batteries also present challenges: they are difficult to recharge and they have an unfortunate tendency to burst into flame.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/40ccd02b18d1327a687daa88cb6f6cf6/noop.png?input=https%3A%2F%2Fd267cvn3rvuq91.cloudfront.net%2Fi%2Fimages%2Fsolidenergyv2x1600.png%3Fcx%3D0%26cy%3D181%26cw%3D1600%26ch%3D900%26sw%3D1200"></article>]]></description>
-            <link>https://www.technologyreview.com/s/602197/better-lithium-batteries-to-get-a-test-flight/?utm_campaign=socialflow&amp;utm_source=facebook&amp;utm_medium=post</link>
-            <guid isPermaLink="false">5cb40919-597f-4edd-a408-95451a40c6f0</guid>
-            <pubDate>Thu, 25 Aug 2016 13:57:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
