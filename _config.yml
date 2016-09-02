@@ -23,15 +23,15 @@ navigation:
   - name: Future Smart City 2016
     url: 'https://youtu.be/GC4ri7qnJk8'
     type: external
+  - name: Using PPPs to fund critical greenfield infrastructure projects
+    url: >-
+      http://www.mckinsey.com/industries/public-sector/our-insights/using-ppps-to-fund-critical-greenfield-infrastructure-projects
+    type: external
   - name: Our Partners - DataGrid International
     url: 'http://www.datagridinternational.com'
     type: external
   - name: Our Partners - Amko SOLARA
     url: 'http://www.amkosolara.com'
-    type: external
-  - name: Using PPPs to fund critical greenfield infrastructure projects
-    url: >-
-      http://www.mckinsey.com/industries/public-sector/our-insights/using-ppps-to-fund-critical-greenfield-infrastructure-projects
     type: external
 title: Infrastructure Investment Fund
 description: Investing a Smart City future
