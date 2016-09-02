@@ -17,12 +17,12 @@ author:
   url: www.cmngcapital.com
 name: CMNG Capital
 navigation:
-  - name: Future Smart City 2016
-    url: 'https://youtu.be/GC4ri7qnJk8'
-    type: external
   - name: About CMNG Capital
     id: 12322eb3-98c4-4ff9-a507-bd27606818c6
     type: content
+  - name: Future Smart City 2016
+    url: 'https://youtu.be/GC4ri7qnJk8'
+    type: external
   - name: Our Partners - DataGrid International
     url: 'http://www.datagridinternational.com'
     type: external
