@@ -4,7 +4,7 @@
         <description><![CDATA[Infrastructure Investment Fund]]></description>
         <link>http://cmngcapital.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 04:37:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 04:38:18 GMT</lastBuildDate>
         <atom:link href="http://cmngcapital.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Using PPPs to fund critical greenfield infrastructure projects]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.mckinsey.com/industries/public-sector/our-insights/using-ppps-to-fund-critical-greenfield-infrastructure-projects</link>
             <guid isPermaLink="false">19f61a66-a8d5-4a40-bd03-79619eb6e0e0</guid>
             <pubDate>Thu, 01 Sep 2016 04:37:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Here's A Simple Explanation Of How Self-Driving Cars Could Eliminate Traffic]]></title>
+            <description><![CDATA[<article><h1>Here's A Simple Explanation Of How Self-Driving Cars Could Eliminate Traffic</h1><p>On the highways or in the cities, sometimes traffic jams extend as far as the eye can see. You snail along at a glacial pace until all of a sudden traffic just clears up for no reason. Self-driving cars aim to fix that. Traffic usually is the result of human reaction time.</p><img src="https://i.kinja-img.com/gawker-media/image/upload/s--qaw-l51P--/c_fill,fl_progressive,g_center,h_450,q_80,w_800/kpuwpwvt2ywrweibiior.gif"></article>]]></description>
+            <link>http://jalopnik.com/here-s-a-simple-explanation-of-how-self-driving-cars-co-1785996633?utm_campaign=socialflow_gizmodo_facebook&amp;utm_source=gizmodo_facebook&amp;utm_medium=socialflow</link>
+            <guid isPermaLink="false">27a3909c-688c-4475-959d-e060039a735c</guid>
+            <pubDate>Thu, 01 Sep 2016 04:37:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[日本首家IoT青年旅館開幕，用手機掌控自己的住宿體驗]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.technologyreview.com/lists/innovators-under-35/2016/inventor/alex-hegyi/</link>
             <guid isPermaLink="false">8b5415de-1f70-4fd2-8eab-0f0dd38dbbba</guid>
             <pubDate>Sun, 28 Aug 2016 06:07:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meet Dinesh Bharadia, the Innovator Under 35 who was told his unbelievable radio technology would never work]]></title>
-            <description><![CDATA[<article><h1>Meet Dinesh Bharadia, the Innovator Under 35 who was told his unbelievable radio technology would never work</h1><p>MIT Computer Science and Artificial Intelligence Laboratory A seemingly impossible radio design will double wireless data capabilities. Dinesh Bharadia invented a telecommunications technology that everyone said would never work: he found a way to simultaneously transmit and receive data on the same frequency.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3ed5e99ef6e3bb7655385b657b0653ca/noop.jpg?input=https%3A%2F%2Fd267cvn3rvuq91.cloudfront.net%2Fi%2Fimages%2Fdineshx2000.jpg%3Fcx%3D0%26cy%3D479%26cw%3D1333%26ch%3D749%26sw%3D1200"></article>]]></description>
-            <link>https://www.technologyreview.com/lists/innovators-under-35/2016/inventor/dinesh-bharadia/</link>
-            <guid isPermaLink="false">7aa8b0b3-7513-4549-8445-22bf8d0bb428</guid>
-            <pubDate>Sat, 27 Aug 2016 03:14:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
