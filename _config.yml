@@ -1,16 +1,16 @@
-typography_spectrum: 0.16791931400075555
-color:
-  brandStrength: 0.3043730373028666
-  lightness: 0.786222972208634
-  saturation: 0.433917197631672
-  rhythmicContrast: 0.689049664651975
-  brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
 layout_spectrum: 0.3315722194965929
+typography_spectrum: 0.14721447532065213
+color:
+  brandStrength: 0.22608690476045012
+  lightness: 0.36465247347950935
+  saturation: 0.5084570569451898
+  rhythmicContrast: 0.5145614927168936
+  brandColors:
+    - '#E8E595'
+    - '#D0A825'
+    - '#40627C'
+    - '#26393D'
+    - '#FFFAE4'
 author:
   name: Michael Ng
   email: michael.ng@cmngcapital.com
