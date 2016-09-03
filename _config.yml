@@ -1,4 +1,3 @@
-layout_spectrum: 0.3315722194965929
 typography_spectrum: 0.01382032735273242
 color:
   brandStrength: 0.11477023526094854
@@ -11,15 +10,13 @@ color:
     - '#40627C'
     - '#26393D'
     - '#FFFAE4'
+layout_spectrum: 0.3315722194965929
 author:
   name: Michael Ng
   email: michael.ng@cmngcapital.com
   url: www.cmngcapital.com
 name: CMNG Capital
 navigation:
-  - name: About CMNG Capital - Smart City Infrastructure Investments
-    id: 12322eb3-98c4-4ff9-a507-bd27606818c6
-    type: content
   - name: Future Smart City 2016 (youtube)
     url: 'https://youtu.be/GC4ri7qnJk8'
     type: external
@@ -27,6 +24,9 @@ navigation:
     url: >-
       http://www.mckinsey.com/industries/public-sector/our-insights/using-ppps-to-fund-critical-greenfield-infrastructure-projects
     type: external
+  - name: About CMNG Capital - Smart City Infrastructure Investments
+    id: 12322eb3-98c4-4ff9-a507-bd27606818c6
+    type: content
   - name: Our Partners - DataGrid International
     url: 'http://www.datagridinternational.com'
     type: external
