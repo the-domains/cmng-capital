@@ -9,26 +9,26 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 description: Investing a Smart City future
 color:
-  saturation: 0.8450265321880579
-  brandStrength: 1
-  lightness: 0.7539672481361777
+  saturation: 0.8450266
+  brandStrength: 0.3260261
+  lightness: 0.9846082
   brandColors:
     - '#FCFFF5'
     - '#D1DBBD'
     - '#91AA9D'
     - '#3E606F'
     - '#193441'
-  rhythmicContrast: 0.854541597655043
+  rhythmicContrast: 0.8545416
 typography_spectrum: 0.8866605
-layout_spectrum: 0.3315722194965929
+layout_spectrum: 0.0886194
 navigation:
   - name: About CMNG Capital - Smart City Infrastructure Investments
     id: 12322eb3-98c4-4ff9-a507-bd27606818c6
