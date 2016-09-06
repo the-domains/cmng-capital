@@ -1,8 +1,24 @@
-typography_spectrum: 0.3379658979829401
+author:
+  name: Michael Ng
+  email: michael.ng@cmngcapital.com
+  url: www.cmngcapital.com
+title: Infrastructure Investment Fund
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+description: Investing a Smart City future
 color:
-  brandStrength: 0.32711215736344457
-  lightness: 0.7539672481361777
   saturation: 0.8450265321880579
+  brandStrength: 0.3271121573634446
   rhythmicContrast: 0.854541597655043
   brandColors:
     - '#FCFFF5'
@@ -10,12 +26,8 @@ color:
     - '#91AA9D'
     - '#3E606F'
     - '#193441'
-layout_spectrum: 0.3315722194965929
-author:
-  name: Michael Ng
-  email: michael.ng@cmngcapital.com
-  url: www.cmngcapital.com
-name: CMNG Capital
+  lightness: 0.7539672481361777
+typography_spectrum: 0.8866605
 navigation:
   - name: About CMNG Capital - Smart City Infrastructure Investments
     id: 12322eb3-98c4-4ff9-a507-bd27606818c6
@@ -33,5 +45,5 @@ navigation:
   - name: Our Partners - Amko SOLARA
     url: 'http://www.amkosolara.com'
     type: external
-title: Infrastructure Investment Fund
-description: Investing a Smart City future
+layout_spectrum: 0.3315722194965929
+name: CMNG Capital
