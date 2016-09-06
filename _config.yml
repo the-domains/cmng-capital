@@ -27,8 +27,8 @@ color:
     - '#3E606F'
     - '#193441'
   rhythmicContrast: 0.6245336
-typography_spectrum: 0.8866605
-layout_spectrum: 0.6002799
+typography_spectrum: 0
+layout_spectrum: 0
 navigation:
   - name: About CMNG Capital - Smart City Infrastructure Investments
     id: 12322eb3-98c4-4ff9-a507-bd27606818c6
