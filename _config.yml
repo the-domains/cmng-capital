@@ -19,14 +19,14 @@ description: Investing a Smart City future
 color:
   saturation: 0.8450266
   brandStrength: 0.3260261
-  rhythmicContrast: 0.8545416
+  lightness: 0.8642724
   brandColors:
     - '#FCFFF5'
     - '#D1DBBD'
     - '#91AA9D'
     - '#3E606F'
     - '#193441'
-  lightness: 0.9846082
+  rhythmicContrast: 0.6245336
 typography_spectrum: 0.8866605
 layout_spectrum: 0.6002799
 navigation:
